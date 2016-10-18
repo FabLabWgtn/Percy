@@ -8,11 +8,11 @@
 # Site settings
 title: Percy
 email:
-description: > The friendly chocolate printer made by makersnz-wgtn meetup at Fab Lab Wgtn
+description: > # The friendly chocolate printer made by makersnz-wgtn meetup at Fab Lab Wgtn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://http://fablabwgtn.github.io/Percy" # the base hostname & protocol for your site
 twitter_username:
-github_username:  
+github_username:
 
 # Build settings
 markdown: kramdown
