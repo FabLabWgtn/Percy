@@ -7,12 +7,15 @@
 
 # Site settings
 title: Percy
+subtitle: The friendly chocolate printer
 email:
 description: > # The friendly chocolate printer made by makersnz-wgtn meetup at Fab Lab Wgtn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://http://fablabwgtn.github.io/Percy" # the base hostname & protocol for your site
+imageurl: "/images/"
 twitter_username:
-github_username:
+github_username: Percy
+meetup_username: makersnz-wgtn
 
 # Build settings
 markdown: kramdown

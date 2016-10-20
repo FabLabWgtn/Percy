@@ -7,8 +7,9 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
+          <li><a href="https://drive.google.com/drive/folders/0Bwhcg9j8_xowNTNCcG5oVEFyVFU?usp=sharing">Raw docs dump drive</a></li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a></li>
         </ul>
       </div>
 
@@ -17,6 +18,12 @@
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.meetup_username %}
+          <li>
+            {% include icon-meetup.html username=site.meetup_username %}
           </li>
           {% endif %}
 
