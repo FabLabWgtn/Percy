@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Tempering Tank "
+title:  "The Tempering Tank"
 date:   2016-10-20 22:23:36 +1300
 ---
 
-![Temper initial test]({{site.imageurl}}IMG_20161020_213248.jpg)
+![Temper initial test]({{site.url}}{{site.imageurl}}IMG_20161020_213248.jpg)
 
 #### Things we did this week:  
 
