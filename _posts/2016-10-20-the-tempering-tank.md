@@ -15,7 +15,7 @@ Discussion of tempering tank design to melt solid blocks and feed chocolate into
 Discussion of expansion tank to take 'pulsing' out of chocolate extrusion
 
 Test of basic tempering wheel mechanism using stepper driver  
-Used the the stepper motor shield at 50 RPM (need to document code)
+Used the the stepper motor shield at 50 RPM ( <del> need to document code</del> now in the messy drive folder)
 
 Fed the [@cocoMassey](https://www.facebook.com/cocamassey/) students handing in tomorrow
 
