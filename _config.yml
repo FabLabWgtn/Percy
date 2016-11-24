@@ -12,6 +12,7 @@ email:
 description: > # The friendly chocolate printer made by makersnz-wgtn meetup at Fab Lab Wgtn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fablabwgtn.github.io/Percy" # the base hostname & protocol for your site
+#url: ""
 imageurl: "/images/"
 twitter_username:
 github_username: Percy
