@@ -6,7 +6,7 @@ date:   2016-10-19 18:13:31 +1300
 ---
 ![chocolateprinter]({{site.url}}{{site.imageurl}}chocolateprinter.jpg)
 
-A one wet Wellington winter, a group of makers got together to tinker with machines and chocolate...
+One wet Wellington winter, a group of makers got together to tinker with machines and chocolate...
 
 #### The Makers
 The Wellington Makers Meetup is a group that is open to all. It started with the goal of establishing a community of makers in Wellington. Check out the group here, maybe even join us for an activity! https://www.meetup.com/makersnz-wgtn/
