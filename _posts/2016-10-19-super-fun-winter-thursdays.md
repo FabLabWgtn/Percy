@@ -4,7 +4,7 @@ title:  "Super Fun Winter Thursdays"
 date:   2016-10-19 18:13:31 +1300
 
 ---
-![chocolateprinter]({{site.url}}{{site.imageurl}}IMG_20161027_193126.jpg)
+![chocolateprinter]({{site.url}}{{site.imageurl}}chocolateprinter.jpg)
 
 A one wet Wellington winter, a group of makers got together to tinker with machines and chocolate...
 
