@@ -4,7 +4,9 @@ title:  "Super Fun Winter Thursdays"
 date:   2016-10-19 18:13:31 +1300
 
 ---
-A one wet wellington winter, a group of makers got together to tinker with machines and chocolate. 
+![chocolateprinter]({{site.url}}{{site.imageurl}}IMG_20161027_193126.jpg)
+
+A one wet Wellington winter, a group of makers got together to tinker with machines and chocolate...
 
 #### The Makers
 The Wellington Makers Meetup is a group that is open to all. It started with the goal of establishing a community of makers in Wellington. Check out the group here, maybe even join us for an activity! https://www.meetup.com/makersnz-wgtn/
