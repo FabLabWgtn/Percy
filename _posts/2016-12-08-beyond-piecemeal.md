@@ -5,7 +5,7 @@ date:   2016-12-08 23:20:42 +1300
 #youtubeId:
 ---
 {% comment %}{% endcomment %}
-![hero shot]({{site.url}}{{site.imageurl}}IMG_20161208_204220.jpg)
+![tempering wheel]({{site.url}}{{site.imageurl}}IMG_20161208_204220.jpg)
 
 #### Things we did this week:
 This week we hit the ground running. Starting off by testing the new chocolate tempering trough and wheel that we had assembled last time. The trough is heated by an electric element and scooped up by the tempering wheel. We realised that for the system to work effectively it needs to have more chocolate in the tank. Possibly as much as 25% full to maintain a consistent flow rate.  
@@ -29,9 +29,9 @@ Get more chocolate
 Shannon:  
 Finish writing this blog post  
  - Resize images to 800 x 600  
- - Upload to page
- - Edit and add as you feel
-Sketch or CAD any parts
+ - Upload to page  
+ - Edit and add as you feel  
+Sketch or CAD any parts  
 
 Craig:  
 ~~Turn notes into this blog post~~  
@@ -41,8 +41,8 @@ Bring in
  - PVC tube  
  - PVC end-cap  
 shopping list:  
- - Heated silicon wire  
- - Temperature sensors ([DS18B20](http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf))  
+ - ~~Heated silicon wire~~ (12V 60W Flexible Silicone Heating Strip 20mm x 280mm)  
+ - ~~Temperature sensors~~ ([DS18B20](http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf))  
 
 Andre:  
 Sketch up a storm  
