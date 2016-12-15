@@ -10,7 +10,7 @@ date:   2016-12-08 23:20:42 +1300
 #### Things we did this week:
 This week we hit the ground running. Starting off by testing the new chocolate tempering trough and wheel that we had assembled last time. The trough is heated by an electric element and scooped up by the tempering wheel. We realised that for the system to work effectively it needs to have more chocolate in the tank. Possibly as much as 25% full to maintain a consistent flow rate.  
 
-We hooked up a simple relay with a timing circuit to regulate the temperature of the electric element. It read the value from a potentiometer and used this to control the duration of heating cycles on the element. Worked well, the real version will have sensor to automate this. ([Code here](https://github.com/FabLabWgtn/Percy))  
+We hooked up a simple relay with a timing circuit to regulate the temperature of the electric element. It read the value from a potentiometer and used this to control the duration of heating cycles on the element. Worked well, the real version will have sensor to automate this. ([Code here](https://github.com/FabLabWgtn/Percy/blob/master/HeaterTimer.ino))  
 
 #### Looking forward:  
 Until very recently this project has been heavily research driven. A lot of the systems and solutions we've been exploring were just our best guess at a likely option. As such it's been really hard to predict where the sticking points would be. The completion of testing today means we have now done a pass over (almost) every aspect of the printer. Moving forward we want to combine the various systems in a more unified solution. To achieve this we're iterating on a number of areas.  
@@ -35,10 +35,10 @@ Sketch or CAD any parts
 
 Craig:  
 ~~Turn notes into this blog post~~  
-Upload relay code  
+~~Upload relay code~~  
 Bring in  
- - Auger drill bit  
- - PVC tube  
+ - ~~Auger drill bit~~  
+ - ~~PVC tube~~  
  - PVC end-cap  
 shopping list:  
  - ~~Heated silicon wire~~ (12V 60W Flexible Silicone Heating Strip 20mm x 280mm)  
