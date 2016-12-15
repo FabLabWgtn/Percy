@@ -15,6 +15,10 @@ We hooked up a simple relay with a timing circuit to regulate the temperature of
 #### Looking forward:  
 Until very recently this project has been heavily research driven. A lot of the systems and solutions we've been exploring were just our best guess at a likely option. As such it's been really hard to predict where the sticking points would be. The completion of testing today means we have now done a pass over (almost) every aspect of the printer. Moving forward we want to combine the various systems in a more unified solution. To achieve this we're iterating on a number of areas.  
 
+Sketching our ideas...
+
+![sketches]({{site.url}}{{site.imageurl}}IMG_sketches.jpg)
+
 The main extruder is getting an over haul. Replacing the, current printed plastic, auger with a metal one (by way of a drill bit). This will have a plastic coupling attaching it to the stepper motor and be housed inside a PVC tube rather than a syringe. The end will have a cap acting as an adaptor to the existing nematic hose coupling. We will also be swapping the resistive nichrome wire out in favour of an induction heating system.  
 
 Mounting has been largely ignored so far, with tape and clamps being used to hold proof of concept parts together. Now we will be transitioning to mounting everything on or around the printer body, as we start to consider the system together.
