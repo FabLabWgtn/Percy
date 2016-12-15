@@ -21,6 +21,8 @@ Sketching our ideas...
 
 The main extruder is getting an over haul. Replacing the, current printed plastic, auger with a metal one (by way of a drill bit). This will have a plastic coupling attaching it to the stepper motor and be housed inside a PVC tube rather than a syringe. The end will have a cap acting as an adaptor to the existing nematic hose coupling. We will also be swapping the resistive nichrome wire out in favour of an induction heating system.  
 
+![sketch]({{site.url}}{{site.imageurl}}sketch.jpg)
+
 Mounting has been largely ignored so far, with tape and clamps being used to hold proof of concept parts together. Now we will be transitioning to mounting everything on or around the printer body, as we start to consider the system together.
 
 Combining the tempering wheel scraper and auger funnel into one object that collects melted chocolate and moves it into the auger.
