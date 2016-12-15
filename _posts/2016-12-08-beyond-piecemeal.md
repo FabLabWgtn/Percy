@@ -17,7 +17,7 @@ Until very recently this project has been heavily research driven. A lot of the 
 
 Sketching our ideas...
 
-![sketches]({{site.url}}{{site.imageurl}}IMG_sketches.jpg)
+![sketches]({{site.url}}{{site.imageurl}}sketches.jpg)
 
 The main extruder is getting an over haul. Replacing the, current printed plastic, auger with a metal one (by way of a drill bit). This will have a plastic coupling attaching it to the stepper motor and be housed inside a PVC tube rather than a syringe. The end will have a cap acting as an adaptor to the existing nematic hose coupling. We will also be swapping the resistive nichrome wire out in favour of an induction heating system.  
 
